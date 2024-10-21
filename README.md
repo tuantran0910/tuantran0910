@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Ngoc Tuan</h1>
-<h3 align="center">A passionate analytics engineer @Cake | @HCMUS</h3>
+<h3 align="center">A passionate Analytics Engineer @Cake | @HCMUS</h3>
 
 - 🌱 I’m currently learning **Data Engineer concepts**
 
