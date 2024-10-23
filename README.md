@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Data Engineer concepts**
 
-- 👨‍💻 All of my projects are available at [https://www.tuantrann.work](https://www.tuantrann.work)
-
-- 📝 I regularly write articles on [https://www.tuantrann.work/docs/category/my-projects](https://www.tuantrann.work/docs/category/my-projects)
+- 👨‍💻 All of my projects are available at [https://www.tuantrann.work](https://www.tuantrann.work/docs/category/my-projects)
 
 - 📫 How to reach me **<tntuan0910.work@gmail.com>**
 
