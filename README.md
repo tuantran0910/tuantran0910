@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Ngoc Tuan</h1>
-<h3 align="center">A passionate Analytics Engineer @Cake | @HCMUS</h3>
+<h3 align="center">A passionate Analytics Engineer @Cake By VPBank | Student @HCMUS</h3>
 
 - 🌱 I’m currently learning **Data Engineer concepts**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.tuantrann.work/resume](https://www.tuantrann.work/resume)
 
-- ⚡ Fun fact **I have switched from AI Engineer to Data Engineer in 3 months**
+- ⚡ Fun fact **I don't know Leetcode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
