@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **<tntuan0910.work@gmail.com>**
 
-- 📄 Know about my experiences [here](https://www.tuantrann.work/resume)
+- 📄 Know about my experiences [here](https://tuantrann.work/resume)
 
 - ⚡ Fun fact **I don't know Leetcode**
 
