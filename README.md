@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Data Engineer concepts**
 
-- 👨‍💻 All of my projects are available at [https://www.tuantrann.work/docs/category/my-projects](https://www.tuantrann.work/docs/category/my-projects)
+- 👨‍💻 All of my projects are available at [here](https://tuantrann.work/docs/category/my-projects)
 
 - 📫 How to reach me **<tntuan0910.work@gmail.com>**
 
-- 📄 Know about my experiences [https://www.tuantrann.work/resume](https://www.tuantrann.work/resume)
+- 📄 Know about my experiences [here](https://www.tuantrann.work/resume)
 
 - ⚡ Fun fact **I don't know Leetcode**
 
